@@ -9,6 +9,7 @@
           <ul>
           <li><p>class- week_2_class  (3/9)了解與使用request,beautifulsoup做靜態爬蟲，做ptt爬蟲，爬取10頁koreadrama的連結與標題</p></li>
           <li>
+          selenium-testing.ipynb (3/10)
           practice from https://medium.com/shakuro/adopting-ipython-jupyter-for-selenium-testing-d02309dd00b8</li>
           <li><p>hw- </p></li>
           </ul>
