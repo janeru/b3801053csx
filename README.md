@@ -1,6 +1,5 @@
 # 2018-csx_course b03801053
 ### week1: 
-
           <p>class- week_1_first_meet.ipynb (3/1) jupyter notebook,初步認識資料</p>
         
           <p>hw-week_1_hw.ipynb(3/9,3/12/3/13) 先以自己的觀點理解資料</p>
