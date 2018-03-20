@@ -13,3 +13,7 @@
           practice from https://medium.com/shakuro/adopting-ipython-jupyter-for-selenium-testing-d02309dd00b8</li>
           <li><p>hw- </p></li>
           </ul>
+###  week3:
+         <ul>
+         <li>week3_hw_3.ipynb (3/20)</li>
+         </ul>
