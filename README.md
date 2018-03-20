@@ -13,6 +13,5 @@
           <li><p>hw- </p></li>
           </ul>
 ###  week3:
-         <ul>
          <li>week3_hw_3.ipynb (3/20) 視覺化91app資料,畫星期幾與銷售量的圖</li>
-         </ul>
+         
