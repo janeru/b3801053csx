@@ -11,7 +11,6 @@
           <li>
           selenium-testing.ipynb (3/10)
           practice from https://medium.com/shakuro/adopting-ipython-jupyter-for-selenium-testing-d02309dd00b8</li>
-          <li><p>hw- </p></li>
           </ul>
 ###  week3:
          <li>week3_hw_3.ipynb (3/20) 視覺化91app資料,畫星期幾與銷售量的圖</li>
