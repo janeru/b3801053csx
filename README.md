@@ -19,3 +19,6 @@
          
          <li>week_4_class.ipynb (3/26,3/28)完成課堂任務-爬取91app 2017.12.01~2017.12.31的臉書多頁貼文,並做成文字雲</li>
          
+###final_project
+https://docs.google.com/presentation/d/1JE6IMiRjYrbs5z4N38zpHTKTqVmazz3DJnBcOPgAveU/edit#slide=id.g364e324f10_0_298
+         
