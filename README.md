@@ -1,5 +1,6 @@
 # 2018-csx_course b03801053
-###  week1:           
+###  week1:    
+
           <li><a href="https://github.com/janeru/b3801053csx/blob/master/week_1/week_1_first_meet.ipynb">class1</a>(3/1) jupyter notebook,初步認識資料</li>
           <li><a href="https://github.com/janeru/b3801053csx/blob/master/week_1/week_1_hw.ipynb">hw1</a>
           (3/9,3/12/3/13) 試著處理、視覺化資料</li>     
@@ -14,5 +15,5 @@
 ###  week5:
          <li><a href="https://github.com/janeru/b3801053csx/blob/master/week_5/hw_5.ipynb">hw5</a>(4/6,4/7,4/14)完成課堂任務-延續第四週所爬下來的91app資料進行tf-idf分析</li>
 ###  project_1: 
-         <li><a href="https://github.com/janeru/b3801053csx/blob/master/project_1/project_1.ipynb"></a>project1(4/14,4/15,4/16)挑選2004~2018張韶涵每年專輯的一首歌，做文字雲及tf-idf分析，想要看歷年來的歌詞內容著重的地方</li>
+         <li><a href="https://github.com/janeru/b3801053csx/blob/master/project_1/project_1.ipynb">project1</a>(4/14,4/15,4/16)挑選2004~2018張韶涵每年專輯的一首歌，做文字雲及tf-idf分析，想要看歷年來的歌詞內容著重的地方</li>
          
