@@ -1,7 +1,7 @@
 # 2018-csx_course b03801053
 ###  week1:    
-<li><a href="https://github.com/janeru/b3801053csx/blob/master/week_1/week_1_first_meet.ipynb">class1</a>(3/1)初步認識資料</li>
-          <li><a href="https://github.com/janeru/b3801053csx/blob/master/week_1/week_1_hw.ipynb">hw1</a>
+     <li><a href="https://github.com/janeru/b3801053csx/blob/master/week_1/week_1_first_meet.ipynb">class1</a>(3/1)初步認識資料</li>
+      <li><a href="https://github.com/janeru/b3801053csx/blob/master/week_1/week_1_hw.ipynb">hw1</a>
           (3/9,3/12/3/13) 試著處理、視覺化資料</li>     
 ###  week2:       
           <li><a href="https://github.com/janeru/b3801053csx/blob/master/week_2/ptt%E7%88%AC%E8%9F%B2koreadrama%E7%9A%84%E9%80%A3%E7%B5%90%E8%88%87%E6%A8%99%E9%A1%8C.ipynb">hw2</a>(3/9)了解與使用request,beautifulsoup做靜態爬蟲，做ptt爬蟲，爬取10頁koreadrama的連結與標題       
