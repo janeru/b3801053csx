@@ -2,7 +2,8 @@
 ###  week1: 
           <ul>
           <li><p>class- week_1_first_meet.ipynb (3/1) jupyter notebook,初步認識資料</p></li>
-          <li><p>hw-week_1_hw.ipynb https://github.com/janeru/b3801053csx/blob/master/week_1/week_1_hw.ipynb
+          <li><p>
+          <a href="https://github.com/janeru/b3801053csx/blob/master/week_1/week_1_hw.ipynb">hw-week_1_hw.ipynb </a>
           (3/9,3/12/3/13) 試著處理、視覺化資料</p></li>
      
           </ul>
