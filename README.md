@@ -1,10 +1,9 @@
 # 2018-csx_course b03801053
 ###  week1: 
           
-          <li><p>class- week_1_first_meet.ipynb (3/1) jupyter notebook,初步認識資料</p></li>
-          <li><p>
-          <a href="https://github.com/janeru/b3801053csx/blob/master/week_1/week_1_hw.ipynb">hw-week_1_hw.ipynb </a>
-          (3/9,3/12/3/13) 試著處理、視覺化資料</p></li>
+          <li>class- week_1_first_meet.ipynb (3/1) jupyter notebook,初步認識資料</li>
+          <li><a href="https://github.com/janeru/b3801053csx/blob/master/week_1/week_1_hw.ipynb">hw-week_1_hw.ipynb </a>
+          (3/9,3/12/3/13) 試著處理、視覺化資料</li>
      
        
 ###  week2:
