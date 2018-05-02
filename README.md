@@ -9,7 +9,7 @@
 * <a href="https://github.com/janeru/b3801053csx/blob/master/week_2/ptt%E7%88%AC%E8%9F%B2koreadrama%E7%9A%84%E9%80%A3%E7%B5%90%E8%88%87%E6%A8%99%E9%A1%8C.ipynb">hw2</a>(3/9)了解與使用request,beautifulsoup做靜態爬蟲，做ptt爬蟲，爬取10頁koreadrama的連結與標題       
           (4/4)做調整，並將日期，推文，作者也爬下來
 ----
->>>>>>> 7a4c04bde4263170547578291db9f46f4a8e4513
+
 ###  week3:
 * <a href="https://github.com/janeru/b3801053csx/blob/master/week_3/week3_hw_3.ipynb">hw3</a>(3/20)視覺化91app資料,畫星期幾與銷售量的圖
 * <a href="https://github.com/janeru/b3801053csx/blob/master/week_3/classifi.ipynb">try_final_project1</a> 
