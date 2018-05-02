@@ -11,11 +11,13 @@
           <li>
           selenium-testing.ipynb (3/10)
           practice from https://medium.com/shakuro/adopting-ipython-jupyter-for-selenium-testing-d02309dd00b8</li>
-          <li><p>hw- </p></li>
           </ul>
 ###  week3:
          <li>week3_hw_3.ipynb (3/20) 視覺化91app資料,畫星期幾與銷售量的圖</li>
 ###  week4:         
          
          <li>week_4_class.ipynb (3/26,3/28)完成課堂任務-爬取91app 2017.12.01~2017.12.31的臉書多頁貼文,並做成文字雲</li>
+         
+### final_project plan:(預測新顧客之購物行為)
+https://docs.google.com/presentation/d/1JE6IMiRjYrbs5z4N38zpHTKTqVmazz3DJnBcOPgAveU/edit#slide=id.g364e324f10_0_298
          
