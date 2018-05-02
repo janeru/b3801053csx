@@ -28,6 +28,4 @@
 * <a href="https://docs.google.com/presentation/d/1JE6IMiRjYrbs5z4N38zpHTKTqVmazz3DJnBcOPgAveU/edit">version1</a>預測新顧客購物行為
 ----
          
-### final_project plan:(預測新顧客之購物行為)
-https://docs.google.com/presentation/d/1JE6IMiRjYrbs5z4N38zpHTKTqVmazz3DJnBcOPgAveU/edit#slide=id.g364e324f10_0_298
          
