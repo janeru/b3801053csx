@@ -27,8 +27,24 @@
 ###  project_2: 
 * <a href="https://github.com/janeru/b3801053csx/blob/master/project_2/project_2.ipynb">project2</a>(5/1,5/2)titanic prediction
 ----
+###  project_3: 
+* <a href="https://github.com/janeru/b3801053csx/blob/master/project3/project3.ipynb">project3</a>Use Linear Regression/ ANOVA
+to analyze NTU Staff data
+----
+###  project_4: 
+* <a href="https://github.com/JessieChiu/CSXSpring2018_Python/blob/master/project_4/project_4.ipynb">project4</a>Use apriori to do market basket analysis
+----
+###  project_5: 
+* <a href="https://github.com/janeru/b3801053csx/blob/master/project_2/project_2.ipynb">project5</a>(5/1,5/2)pytorch-CNN
+----
+
+
 ### final_project
 * <a href="https://docs.google.com/presentation/d/1JE6IMiRjYrbs5z4N38zpHTKTqVmazz3DJnBcOPgAveU/edit">version1</a>預測新顧客購物行為
+
+ETP:
+https://docs.google.com/presentation/d/1yM0BHpVoJW_gpauKf0o8C4OkYRC5TFk-rC7io2w5qYU/edit#slide=id.g37fbf25019_0_0
 ----
+
       
          
