@@ -21,7 +21,7 @@ _(4/17)project觀察：想看購物間隔與購物頻率及購買金額及職業
 ###  week5:
 * <a href="https://github.com/janeru/b3801053csx/blob/master/week_5/hw_5.ipynb">hw5</a>_(4/6,4/7,4/14)完成課堂任務-延續第四週所爬下來的91app資料進行tf-idf分析
 ----
-## Team Project with <a href="https://github.com/JessieChiu/CSXSpring2018_Python>邱千芷</a>
+## Team Project with <a href="https://github.com/JessieChiu/CSXSpring2018_Python">邱千芷</a>
 
 ###  project_1: 
 * <a href="https://github.com/janeru/b3801053csx/blob/master/project_1/project_1.ipynb">project1</a>_(4/14,4/15,4/16)挑選2004~2018張韶涵每年專輯的一首歌，做文字雲及tf-idf分析，想要看歷年來的歌詞內容著重的地方
